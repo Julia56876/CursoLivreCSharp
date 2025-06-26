@@ -48,6 +48,37 @@ namespace Heranca
             Poupanca poupanca = new Poupanca();
            
         }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtValor_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnMostrar_Click(object sender, EventArgs e)
+        {
+            if (radioButton2.Checked)
+            {
+                double valor, porc, resp;
+
+                valor = Convert.ToDouble(txtValor.Text);
+                porc = Convert.ToDouble(txtPorcentagem.Text);
+
+                Poupanca cp = new Poupanca();
+                resp = cp.calculoRendimento(porc, valor);
+
+                ltbExtrato.Items.Add("Valor a receber: " + resp);
+
+            }
+            if (rdbContaCorrente.Checked)
+            {
+                ltbExtrato.Items.Add("Valor conta corrente: " + txtValor.Text);
+            }
+        }
     }
 }
  
