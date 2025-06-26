@@ -1,0 +1,11 @@
+C:\Users\julia.ssantos53\Documents\Visual Studio 2022\EmpresaCLivre\GerenciarPessoas\bin\Debug\GerenciarPessoas.exe.config
+C:\Users\julia.ssantos53\Documents\Visual Studio 2022\EmpresaCLivre\GerenciarPessoas\bin\Debug\GerenciarPessoas.exe
+C:\Users\julia.ssantos53\Documents\Visual Studio 2022\EmpresaCLivre\GerenciarPessoas\bin\Debug\GerenciarPessoas.pdb
+C:\Users\julia.ssantos53\Documents\Visual Studio 2022\EmpresaCLivre\GerenciarPessoas\obj\Debug\GerenciarPessoas.csproj.AssemblyReference.cache
+C:\Users\julia.ssantos53\Documents\Visual Studio 2022\EmpresaCLivre\GerenciarPessoas\obj\Debug\GerenciarPessoas.Properties.Resources.resources
+C:\Users\julia.ssantos53\Documents\Visual Studio 2022\EmpresaCLivre\GerenciarPessoas\obj\Debug\GerenciarPessoas.csproj.GenerateResource.cache
+C:\Users\julia.ssantos53\Documents\Visual Studio 2022\EmpresaCLivre\GerenciarPessoas\obj\Debug\GerenciarPessoas.csproj.CoreCompileInputs.cache
+C:\Users\julia.ssantos53\Documents\Visual Studio 2022\EmpresaCLivre\GerenciarPessoas\obj\Debug\GerenciarPessoas.exe
+C:\Users\julia.ssantos53\Documents\Visual Studio 2022\EmpresaCLivre\GerenciarPessoas\obj\Debug\GerenciarPessoas.pdb
+C:\Users\julia.ssantos53\Documents\Visual Studio 2022\EmpresaCLivre\GerenciarPessoas\obj\Debug\GerenciarPessoas.frmCadPessoa.resources
+C:\Users\julia.ssantos53\Documents\Visual Studio 2022\EmpresaCLivre\GerenciarPessoas\obj\Debug\GerenciarPessoas.frmBuscaPessoas.resources
