@@ -23,5 +23,12 @@ namespace Padaria
             abrir.Show();
             this.Hide();
         }
+
+        private void btnFuncionarios_Click(object sender, EventArgs e)
+        {
+            frmGerenciaFuncionarios abrir = new frmGerenciaFuncionarios();
+            abrir.Show();
+            this.Hide();
+        }
     }
 }
